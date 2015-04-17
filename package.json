@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/grahamcrackers/grogersme-test/issues"
   },
-  "homepage": "https://github.com/grahamcrackers/grogersme-test"
+  "homepage": "https://github.com/grahamcrackers/grogersme-test",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-tasks": "^3.1.0"
+  }
 }
